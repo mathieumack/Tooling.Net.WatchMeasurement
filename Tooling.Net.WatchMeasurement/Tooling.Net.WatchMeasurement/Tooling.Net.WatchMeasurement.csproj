@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard1.4</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>MACK Mathieu</Authors>
+    <Company>MACK Mathieu</Company>
+    <Product>WatchMeasurement</Product>
+    <Description>Watch measurement tools to management calculation of code time execution</Description>
+    <Copyright>Copyright 2017 MACK Mathieu</Copyright>
+    <PackageProjectUrl>https://github.com/mathieumack/Tooling.Net.WatchMeasurement</PackageProjectUrl>
+    <PackageLicenseUrl>https://github.com/mathieumack/Tooling.Net.WatchMeasurement/blob/master/LICENSE</PackageLicenseUrl>
+    <RepositoryUrl>https://github.com/mathieumack/Tooling.Net.WatchMeasurement</RepositoryUrl>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <AssemblyVersion>1.1.0.0</AssemblyVersion>
+    <FileVersion>1.1.0.0</FileVersion>
+    <Version>1.1.0.0</Version>
+  </PropertyGroup>
+
+</Project>
